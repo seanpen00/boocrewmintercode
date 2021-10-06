@@ -112,7 +112,6 @@ function App() {
           borderStyle: "solid", borderColor: "black", borderWidth: 0,
           borderRadius: 50, textAlign: "center", justifySelf: "center", justifyContent: "center"  }}
         >
-          {/* Doodlenaut Minter! */}
           <a href="https://boocrew.io"><StyledImg alt={"BooCrew Logo"} 
           src={newbanner} 
           style={{width: 70, height: 70, textAlign: "center"}}></StyledImg></a>
