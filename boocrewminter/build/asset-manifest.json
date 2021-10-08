@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/boocrewnftminter/static/css/main.6558ee3b.chunk.css",
-    "main.js": "/boocrewnftminter/static/js/main.ce5c9159.chunk.js",
-    "main.js.map": "/boocrewnftminter/static/js/main.ce5c9159.chunk.js.map",
-    "runtime-main.js": "/boocrewnftminter/static/js/runtime-main.1842cdca.js",
-    "runtime-main.js.map": "/boocrewnftminter/static/js/runtime-main.1842cdca.js.map",
-    "static/js/2.acc65b02.chunk.js": "/boocrewnftminter/static/js/2.acc65b02.chunk.js",
-    "static/js/2.acc65b02.chunk.js.map": "/boocrewnftminter/static/js/2.acc65b02.chunk.js.map",
-    "static/js/3.543a4054.chunk.js": "/boocrewnftminter/static/js/3.543a4054.chunk.js",
-    "static/js/3.543a4054.chunk.js.map": "/boocrewnftminter/static/js/3.543a4054.chunk.js.map",
-    "index.html": "/boocrewnftminter/index.html",
-    "static/css/main.6558ee3b.chunk.css.map": "/boocrewnftminter/static/css/main.6558ee3b.chunk.css.map",
-    "static/js/2.acc65b02.chunk.js.LICENSE.txt": "/boocrewnftminter/static/js/2.acc65b02.chunk.js.LICENSE.txt",
-    "static/media/reset.css": "/boocrewnftminter/static/media/NanumPenScript-Regular.9dbef110.ttf",
-    "static/media/hidden.c34f19c6.gif": "/boocrewnftminter/static/media/hidden.c34f19c6.gif",
-    "static/media/logo.dabf7636.png": "/boocrewnftminter/static/media/logo.dabf7636.png"
+    "main.css": "/mystaticwebsite/build/static/css/main.67ac4cbe.chunk.css",
+    "main.js": "/mystaticwebsite/build/static/js/main.ce5c9159.chunk.js",
+    "main.js.map": "/mystaticwebsite/build/static/js/main.ce5c9159.chunk.js.map",
+    "runtime-main.js": "/mystaticwebsite/build/static/js/runtime-main.3e44c0dd.js",
+    "runtime-main.js.map": "/mystaticwebsite/build/static/js/runtime-main.3e44c0dd.js.map",
+    "static/js/2.37443bfe.chunk.js": "/mystaticwebsite/build/static/js/2.37443bfe.chunk.js",
+    "static/js/2.37443bfe.chunk.js.map": "/mystaticwebsite/build/static/js/2.37443bfe.chunk.js.map",
+    "static/js/3.543a4054.chunk.js": "/mystaticwebsite/build/static/js/3.543a4054.chunk.js",
+    "static/js/3.543a4054.chunk.js.map": "/mystaticwebsite/build/static/js/3.543a4054.chunk.js.map",
+    "index.html": "/mystaticwebsite/build/index.html",
+    "static/css/main.67ac4cbe.chunk.css.map": "/mystaticwebsite/build/static/css/main.67ac4cbe.chunk.css.map",
+    "static/js/2.37443bfe.chunk.js.LICENSE.txt": "/mystaticwebsite/build/static/js/2.37443bfe.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/mystaticwebsite/build/static/media/NanumPenScript-Regular.9dbef110.ttf",
+    "static/media/hidden.c34f19c6.gif": "/mystaticwebsite/build/static/media/hidden.c34f19c6.gif",
+    "static/media/logo.dabf7636.png": "/mystaticwebsite/build/static/media/logo.dabf7636.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1842cdca.js",
-    "static/js/2.acc65b02.chunk.js",
-    "static/css/main.6558ee3b.chunk.css",
+    "static/js/runtime-main.3e44c0dd.js",
+    "static/js/2.37443bfe.chunk.js",
+    "static/css/main.67ac4cbe.chunk.css",
     "static/js/main.ce5c9159.chunk.js"
   ]
 }
