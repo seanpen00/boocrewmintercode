@@ -4,7 +4,7 @@ import { connect } from "./redux/blockchain/blockchainActions";
 import { fetchData } from "./redux/data/dataActions";
 import * as s from "./styles/globalStyles";
 import styled from "styled-components";
-import i1 from "./assets/images/hidden.png";
+import i1 from "./assets/images/hidden.gif";
 import newbanner from "./assets/images/logo.png"
 
 export const StyledButton = styled.button`
