@@ -76,7 +76,7 @@ function App() {
       // ********
       .send({
         gasLimit: 285000 * _amount,
-        to: "0x8815e06FC5b57Bd4d5590977a697582f19d2330e",
+        to: "0x8815e06FC5b57Bd4d5590977a697582f19d2330e", // the address of your contract
         from: blockchain.account,
         value: blockchain.web3.utils.toWei((0.035 * _amount).toString(), "ether"),
       })
@@ -233,7 +233,7 @@ function App() {
                       borderWidth: 4,
                       borderColor: "black",
                       borderStyle: "solid",
-                      borderRadius: 100,
+                      borderRadius: 40,
                       paddingRight: 10,
                       // marginBottom: 20,
                       // paddingLeft: 0,
